@@ -9,7 +9,7 @@ draft: false
   <h1>Hi, I'm Prahadeesh 👋</h1>
 </div>
 
-Welcome to my personal corner of the web! I'm a software engineer passionate about building modern, dynamic web applications, scalable systems, and elegant designs. I love diving deep into code and creating things that matter.
+Welcome to my personal corner of the web! This is a hobby website where I document and showcase my personal projects in my free time, spanning from software to hardware design.
 
 ### Connect with me
 
