@@ -1,6 +1,5 @@
-disabled = false
-locale = "en"
-label = "English"
+languageCode = "en"
+languageName = "English"
 weight = 1
 title = "Blowfish"
 
