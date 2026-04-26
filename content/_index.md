@@ -2,16 +2,9 @@
 title: "Prahadeesh TN"
 date: 2026-04-26
 draft: false
+description: "Hardware engineer & VLSI enthusiast — personal project showcase"
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="avatar.jpg" width="150" style="border-radius: 50%; border: 4px solid #0ea5e9;" alt="Prahadeesh TN">
-  <h1>Hi, I'm Prahadeesh 👋</h1>
-</div>
+Welcome to my personal corner of the web! This is where I document my hardware projects — from analog IC design to digital VLSI — built in my free time out of pure curiosity.
 
-Welcome to my personal corner of the web! This is a hobby website where I document and showcase my personal projects in my free time, spanning from software to hardware design.
-
-### Connect with me
-
-- 💻 [GitHub](https://github.com/tprahadeesh)
-- 📧 [Email](mailto:hello@example.com)
+[Projects →](/projects/) · [About Me →](/about/) · [GitHub](https://github.com/tprahadeesh)
