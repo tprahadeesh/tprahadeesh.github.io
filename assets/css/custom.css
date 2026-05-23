@@ -1,0 +1,8 @@
+/* Wider content area for project/article pages */
+.article-content.max-w-prose {
+  max-width: 90ch !important;
+}
+
+.max-w-prose {
+  max-width: 90ch !important;
+}

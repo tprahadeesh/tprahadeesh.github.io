@@ -5,9 +5,10 @@ draft: false
 showTableOfContents: false
 ---
 
-I'm Prahadeesh TN — a hardware engineer passionate about analog and digital VLSI design.
+I'm Prahadeesh TN
+A hardware engineer passionate about analog and digital VLSI design.
 
-This website is a hobby project where I document the things I build and learn in my free time. You'll mostly find IC design work, Cadence simulations, and the occasional side project here.
+This website is a project where I document the things I build and learn in my free time. You'll mostly find IC design work, Cadence simulations, and the occasional side project here.
 
 ### Get in touch
 
