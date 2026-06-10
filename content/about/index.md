@@ -13,4 +13,7 @@ This website is a project where I document the things I build and learn in my fr
 ### Get in touch
 
 - [GitHub](https://github.com/tprahadeesh)
-- [Email](mailto:hello@example.com)
+- [LinkedIn](https://www.linkedin.com/in/prahadeesh-thimma-6a6176273/)
+- [Email](mailto:tprahadeesh@gmail.com)
+
+<a href="/resume.pdf" target="_blank" class="resume-btn">📄 View Resume</a>

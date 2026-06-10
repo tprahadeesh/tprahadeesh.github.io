@@ -11,7 +11,7 @@ This project involves the design and simulation of a two-stage CMOS operational 
 
 I will be going from the calculation of poles to optimizing the poles  for good phase margin
 
-This project was done for one of my lab. Although I have no previous knowledge about the design of op amps ,I have watched some videos to understand how a 2 stage op amp is designed.
+This project was done for one of my lab. Although I had no previous knowledge about the design of op amps ,I have watched some videos and refered some books to understand how a 2 stage op amp is designed.
 
 ## Few questions which I would like to address
 
@@ -236,10 +236,32 @@ GBW = DC Gain × P<sub>1</sub>
 </tr>
 </table>
 
+## Slew rate
+ 
+ I took this derivation of formula from Behzad razavi book (Design of Analog CMOS integrated circuits, chap - 10, Slewing in Two-Stage Op Amps)
 
 
+![ Slew rate](Slew_rate.jpeg)
 
+**Positive slew rate** and **Negative slew rate** I understood from   
 
+[Slew Rate Video](https://www.youtube.com/watch?v=M9M79eAQJOE&t=590s) 
+
+and later related both this and razavi's derivation
+
+Slew Rate = I<sub>o</sub>  / C<sub>c</sub>
+
+## Phase Margin condition
+
+This derivation is really important and decides the phase margin of the circuit 
+What is phase margin?
+![Phase Margin](Phase_margin.jpeg)
+
+So if we see during the gain bandwidth product (gbw) the phase is between 90 and 180. 
+A good design will have phase margin from 45-60 deg.
+
+Here is the derivation for the condition.
+(will update soon busy rn)
 
 
 
